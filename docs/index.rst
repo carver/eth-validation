@@ -1,7 +1,7 @@
-<PROJECT_NAME>
+eth-validation
 =======
 
-<SHORT_DESCRIPTION>
+Python tools for validating Ethereum-related objects
 
 Contents
 --------
